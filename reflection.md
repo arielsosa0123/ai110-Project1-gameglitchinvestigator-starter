@@ -64,7 +64,8 @@ Document at least 3 bugs you found. Add rows as needed.
 
 - How would you explain Streamlit "reruns" and session state to a friend who has never used Streamlit?
 
-  
+Think of Streamlit like a whiteboard that erases itself and gets redrawn from scratch every single time you press a button or type something. The catch: anything written on the whiteboard disappears in that wipe. So there's a separate little notebook off to the side where you jot down the things you need to keep, like your score, the secret number, and your past guesses, so they're still there after each wipe and you can copy them back onto the fresh whiteboard.
+
 
 ---
 
@@ -72,5 +73,13 @@ Document at least 3 bugs you found. Add rows as needed.
 
 - What is one habit or strategy from this project that you want to reuse in future labs or projects?
   - This could be a testing habit, a prompting strategy, or a way you used Git.
+
+    Honestly, I have not used Ai this way before. Prompting it to help me understand and find glitched is huge for me, and helps me prevent glitches like this in the future. As well as prompting AI to build me test cases for my fixed glitches saves me a lot of time and at the same time helps me understand what is being tested and how.
+
 - What is one thing you would do differently next time you work with AI on a coding task?
+
+  Certaintly better prompts, the more specific the prompts the easier it is to use Ai, especially when you do not want it to accidentally erase or remove code needed for something much more important. So simply better propmting will do.
+
 - In one or two sentences, describe how this project changed the way you think about AI generated code.
+
+  Ai generated code, is not a one solution to implement into your enviroment. It needs to be supervised, corrected, and properly prompted. It is a great tool, if used properly, but can also be misued and abused.
